@@ -1,0 +1,26 @@
+{
+  "name": "wallet-watch-asset",
+  "version": "1.0.1",
+  "description": "The application allows you to monitor the balances and values of various assets in a specified wallet address",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "syt4sh1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syt4sh1/wallet-watch-asset.git"
+  },
+  "keywords": [
+    "web3"
+  ],
+  "bugs": {
+    "url": "https://github.com/syt4sh1/wallet-watch-asset/issues"
+  },
+  "homepage": "https://github.com/syt4sh1/wallet-watch-asset#readme",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "web3": "^4.1.1"
+  }
+}
