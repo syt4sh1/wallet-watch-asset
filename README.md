@@ -18,9 +18,9 @@ This repository contains an advanced wallet asset watcher application written in
 ## Installation
 
 1. Clone the repository:
-```git clone https://github.com/your-username/advanced-wallet-watcher.git```
+```git clone https://github.com/your-username/wallet-watch-asset.git```
 2. Navigate to the project directory:
-```cd advanced-wallet-watcher```
+```cd wallet-watch-asset```
 3. Install the required dependencies:
 ```npm install web3 axios``` 
 
